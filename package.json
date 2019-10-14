@@ -1,0 +1,25 @@
+{
+  "name": "44563-my-server",
+  "version": "1.0.0",
+  "description": "server for 44563",
+  "main": "server.js",
+  "scripts": {
+    "test": "help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephCW/44563-my-server.git"
+  },
+  "keywords": [
+    "developing",
+    "web",
+    "apps",
+    "44563\u001b[D\u001b[D\u001b[D-563\u001b[2~"
+  ],
+  "author": "joseph watts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephCW/44563-my-server/issues"
+  },
+  "homepage": "https://github.com/JosephCW/44563-my-server#readme"
+}
